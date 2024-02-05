@@ -8,7 +8,7 @@ A command-line application that dynamically generates a professional README.md f
 
 ## Built with
 
-![Static Badge](https://img.shields.io/badge/HTML-blue) ![Static Badge](https://img.shields.io/badge/CSS-blue) ![Static Badge](https://img.shields.io/badge/JavaScript-blue)
+![Static Badge](https://img.shields.io/badge/JavaScript-blue) ![Static Badge](https://img.shields.io/badge/node.js-blue)
 
 ## Credits
 
